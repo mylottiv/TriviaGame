@@ -1,0 +1,20 @@
+body{
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+.my-row{
+    text-align: center;
+}
+.my-col{
+    text-align: center;
+}
+#question-card{
+    margin-top: 20%;
+    border: 5px yellow groove;
+}
+#bottom-area{
+    border: 2px black solid;
+}
+.answer{
+    border: 2px navy solid;
+}
